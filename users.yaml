@@ -1,0 +1,13 @@
+
+credentials:
+  usernames:
+    robert:
+      name: Robert Gans
+      password: '$2b$12$y5vZQJpMfZj2nqKz2q0VjuFVrUNQ3QYmLkcbnVaA0H8YOoAac9r8y'  # senha: 1234
+    valeria:
+      name: Valéria
+      password: '$2b$12$ByTr2I1GkY4u4UvQy4g1U.y3CZnTxI9F0HtVr6qZQ/4V4Psl9pRse'  # senha: abcd
+cookie:
+  expiry_days: 30
+  key: my_signature_key
+  name: my_app_cookie
