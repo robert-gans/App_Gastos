@@ -1,6 +1,3 @@
-# App_Gastos
-Controle de Gastos com Autenticação – App em Streamlit
-
 
 # 💸 Controle de Gastos com Autenticação – App em Streamlit
 
